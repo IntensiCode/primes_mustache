@@ -41,5 +41,6 @@ class Ghostling extends SpriteComponent
 
     addLifeIndicatorTo(this, maxDamage: 2);
     initTakingHits(this, whereKind: (it) => it != ProjectileKind.vim);
+    initConvertOnSub();
   }
 }

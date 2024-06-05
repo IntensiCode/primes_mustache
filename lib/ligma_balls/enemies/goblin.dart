@@ -44,5 +44,6 @@ class Goblin extends SpriteComponent
       this,
       modifier: (it) => it == ProjectileKind.twitchChat ? 0.25 : 1,
     );
+    initConvertOnSub();
   }
 }

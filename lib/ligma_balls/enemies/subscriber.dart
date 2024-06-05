@@ -30,5 +30,6 @@ class Subscriber extends SpriteComponent
     add(FollowWaypoints());
     addLifeIndicatorTo(this, maxDamage: 10);
     initTakingHits(this);
+    initConvertOnSub();
   }
 }
