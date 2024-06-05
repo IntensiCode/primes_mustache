@@ -7,4 +7,4 @@ Simple tower defense style game demo using the
 
 Playable version should be available in the GitHub pages of this repo:
 
-https://daniellukic.github.io/flutter_basic_td/
+https://intensicode.github.io/primes_mustache/
